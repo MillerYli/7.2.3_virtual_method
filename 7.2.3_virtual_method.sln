@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.3_virtual_method", "7.2.3_virtual_method\7.2.3_virtual_method.csproj", "{C2DD41B8-8D72-4E12-8F82-CA235C584102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2DD41B8-8D72-4E12-8F82-CA235C584102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DD41B8-8D72-4E12-8F82-CA235C584102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DD41B8-8D72-4E12-8F82-CA235C584102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DD41B8-8D72-4E12-8F82-CA235C584102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E92C1672-E94A-4BF0-AB64-278014399909}
+	EndGlobalSection
+EndGlobal
